@@ -1,7 +1,7 @@
-const User1=()=>{
+// const User1=()=>{
 
-    return(
-        <div>Hello</div>
-    );
-}
-export default User1;
+//     return(
+//         <div>Hello</div>
+//     );
+// }
+// export default User1;
